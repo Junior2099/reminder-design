@@ -1,3 +1,8 @@
+- mvn tomcat7:run
+- http://localhost:8080/sistema-lembretes/login
+- admin - admin
+
+
 # Sistema de Gerenciamento de Lembretes
 
 Sistema web desenvolvido em Java (JSP/Servlet) com padrão MVC para gerenciamento de lembretes pessoais, incluindo gráficos e análises estatísticas.
